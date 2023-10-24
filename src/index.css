@@ -16,6 +16,14 @@
     -webkit-border-radius: 50%;
 }
 
+.social-icon{
+    height: 10px;
+    width: 10px;
+    @media (max-width: 1250px) {
+        /* … */
+    }
+}
+
 .social-custom-class:hover .social-svg-icon {
     fill: hsl(300, 69%, 71%) !important;
 
