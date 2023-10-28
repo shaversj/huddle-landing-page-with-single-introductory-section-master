@@ -10,7 +10,7 @@
 
 .social-custom-class .social-svg {
     color: hsl(257, 40%, 49%);
-    border: 1px solid white;
+    border: 0.1249rem solid white;
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -22,7 +22,7 @@
 }
 
 .social-custom-class:hover .social-svg {
-    border: 1px solid hsl(300, 69%, 71%);
+    border: 0.1249rem solid hsl(300, 69%, 71%) !important;
 }
 
 @media (min-width: 1440px) {
