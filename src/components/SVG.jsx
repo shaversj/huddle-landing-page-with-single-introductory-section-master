@@ -1,9 +1,7 @@
-import React from 'react';
-
 const Svg = () => {
     return (
         <svg className={"w-[300px] lg:w-[709px]"} xmlns="http://www.w3.org/2000/svg"
-             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 709 506">
+             xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 709 506">
             <defs>
                 <filter id="a" width="103.2%" height="105.1%" x="-1.6%" y="-2.6%"
                         filterUnits="objectBoundingBox">
