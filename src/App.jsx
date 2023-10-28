@@ -5,15 +5,13 @@ import MainLayout from "./components/MainLayout.jsx";
 import PageLayout from "./components/PageLayout.jsx";
 
 function App() {
-
-
     return (
         <>
             <PageLayout>
                 <MainLayout>
-                    <Header />
-                    <BodyLayout />
-                    <Footer />
+                    <Header/>
+                    <BodyLayout/>
+                    <Footer/>
                 </MainLayout>
             </PageLayout>
         </>
